@@ -1,1 +1,1 @@
-# PocketSmart-AI
+# PocketSmart-AI :Your Smart Budget & Recommendation Assistant
